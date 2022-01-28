@@ -1,0 +1,99 @@
+##1. Create a payment app 
+ the fields are -
+
+name of the account holder-
+account no-
+confirm account no -
+available balance -
+amount to be debited-
+ifsc code -
+payment channel -
+mobile no -
+
+calculate the current balance after withdrawal and show the result
+
+1. all the fields are required.
+2. account no and confirm account no should be same
+3.mobile no should be of 10 digits
+4. check if the available balance is greater than the amount to be withdrawn
+
+
+
+
+##1.Implement a Weight comverter using html,css and js i.e https://drive.google.com/file/d/16lAOn8pI8r85UoNZiPuA3b6sGxm-MjQT/view
+
+
+
+###Sematic tags in HTML
+HTML5 Tags
+Span vs Div , Examples
+Significance of Doctype
+local storage vs session storage
+link vs a tag
+inline to block 
+Why JS tag used at bottom
+How many ways we can write CSS
+Media Queries 
+Visibility hidden vs display none
+Selectors in CSS
+DOM
+flex and grid
+What is JS ?
+== vs ===
+Type coercion
+let vs const vs var
+hoisting in JS
+slice vs splice
+callback functions
+Event Loop in JS
+call stack , call back queue
+IIFE 
+Promises
+
+
+
+
+##Explain equality in JavaScript
+JavaScript Hoisting
+How can we get the geographic position of a user in HTML5?
+Box-Model
+difference between cookie, sessionStorage and localStorage.
+What is prototype chain.
+Explain what is callback function and provide example
+Diff between .forEach and .map()
+What is closure in JavaScript?
+What is Scope?
+What are Higher Order Functions?
+What are Promises?
+css display, position, float properties
+What is Media Query?
+Immediately-invoked Function Expressions (IIFE)
+
+
+
+
+
+1. Semantic tags in html
+2. list in html
+3. Make list element red
+4. Make second list element blue
+5. Inline css
+6. Internal css
+7. External css
+8. How to hide a list
+9. Display:none in css
+10. Difference between visibilty:hidden and display:none
+11. Class and id in css
+12. innerHtml in js
+13. What is dom?
+14. link tag in html
+15. Write a function in js
+16. let and const in js
+17. Data types in js
+18. console.log(1+"2"+3)
+19. Why we use js?
+20. Universal selector
+21. What is hoisting?
+22. What is Closer?
+23. What is event loop?
+24. What is currying
